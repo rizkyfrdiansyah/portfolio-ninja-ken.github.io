@@ -12,3 +12,11 @@ form textarea {
   border: none;
   border-radius: 5px;
 }
+
+form button {
+  width: 30%;
+  padding: 15px 10px;
+  background: yellow;
+  border: none;
+  border-radius: 5px;
+}
