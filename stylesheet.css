@@ -1,0 +1,14 @@
+header {
+  position: fixed;
+  top: 10px;
+  left: 0;
+  width: 100%;
+}
+
+form input,
+form textarea {
+  width: 60%;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
